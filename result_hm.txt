@@ -1,0 +1,28 @@
+2020-05-22 13:52:28.841187
+Kolya survived! Puzzled word is javascript.
+2020-05-22 14:55:10.264749
+Kolya survived! Puzzled word is study.
+2020-05-22 14:55:54.066444
+Kolya hanged! Puzzled word is group.
+2020-05-22 14:57:49.337905
+Kolya survived! Puzzled word is case.
+2020-05-22 14:58:27.440379
+Kolya survived! Puzzled word is question.
+2020-05-22 14:59:21.939488
+Kolya hanged! Puzzled word is would.
+2020-05-22 15:00:22.838845
+Kolya survived! Puzzled word is room.
+2020-05-22 15:02:56.554793
+Eugene hanged! Puzzled word is student.
+2020-05-22 15:03:47.679772
+Kolya survived! Puzzled word is part.
+2020-05-22 15:05:10.158964
+Eugene hanged! Puzzled word is kind.
+2020-05-22 15:09:07.616153
+Sasha hanged! Puzzled word is mother.
+2020-05-22 15:10:23.202078
+Sergey hanged! Puzzled word is day.
+2020-05-22 15:12:27.965906
+Kolya survived! Puzzled word is week.
+2020-05-23 12:56:39.733826
+Kolya hanged! Puzzled word is hour.
